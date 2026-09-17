@@ -1,0 +1,8 @@
+{
+  "document_id": "fd437379-cf59-4e27-ad2f-797425a888a4",
+  "final_merkle_root": "c72678b0c62aea15d1d15e5d5877bacb589aab5d03aed1a758436a3b2fccfc89fbd0ea2aa8cd8f207bbbc9654aea3f4fa7166b93078a476c5cfb25a122da7f34",
+  "original_sha256": "3d0ff832620552600e6d91280d0435f3f5f2459437bd79b5e219d179fe3f1bf6",
+  "anchored_at": "2026-09-17T06:00:37.000Z",
+  "atomic_time_source": "CLOUDFLARE_EDGE",
+  "service": "RiffAegis Zero-Knowledge Fortress"
+}
